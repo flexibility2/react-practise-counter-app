@@ -4,7 +4,7 @@ This is my first try with React development, it was a special and powerfull way 
 
 ## Project Link
 
-react-practise-counter-app.vercel.app
+[Counter-App](https://react-practise-counter-app.vercel.app/)
 
 ## Getting Started
 
